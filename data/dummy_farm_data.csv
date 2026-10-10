@@ -1,0 +1,19 @@
+rainfall,temperature,humidity,nitrogen,phosphorus,potassium,soil_type,crop,yield_tons
+420,24,78,88,42,44,Loamy,Rice,6.8
+380,23,82,85,40,42,Clay,Rice,6.4
+210,27,58,72,36,30,Loamy,Wheat,4.7
+190,26,54,68,34,28,Sandy,Wheat,4.1
+120,30,48,62,30,26,Sandy,Millet,3.3
+145,29,52,64,32,28,Red Soil,Millet,3.7
+160,31,61,78,40,38,Black Soil,Maize,5.0
+175,30,64,80,41,39,Loamy,Maize,5.4
+95,32,44,58,28,24,Sandy,Groundnut,2.9
+110,31,46,60,29,25,Red Soil,Groundnut,3.2
+260,28,72,74,39,41,Clay,Sugarcane,7.5
+290,27,75,76,40,43,Black Soil,Sugarcane,8.1
+130,29,56,69,33,31,Red Soil,Cotton,3.9
+150,30,59,70,34,32,Black Soil,Cotton,4.2
+230,25,68,82,38,36,Loamy,Vegetables,5.8
+250,24,70,84,39,37,Alluvial,Vegetables,6.1
+340,26,80,86,43,44,Clay,Banana,8.6
+360,27,83,88,45,46,Alluvial,Banana,9.0
